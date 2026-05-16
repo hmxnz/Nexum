@@ -9,7 +9,7 @@ backend/.env
 .env.local
 .env.*.local
 
-# Herramienta de desarrollo (Claude Code)
+# Configuración local
 .claude/
 
 # Logs
