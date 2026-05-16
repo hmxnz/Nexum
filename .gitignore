@@ -9,9 +9,6 @@ backend/.env
 .env.local
 .env.*.local
 
-# Configuración local
-.claude/
-
 # Logs
 npm-debug.log*
 yarn-debug.log*
